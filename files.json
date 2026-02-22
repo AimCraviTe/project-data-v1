@@ -1,0 +1,22 @@
+[
+  {
+    "file": "Game.ResDt",
+    "hash": "SHA256_CODE"
+  },
+  {
+    "file": "Game.Res00",
+    "hash": "SHA256_CODE"
+  },
+  {
+    "file": "GameClient.dll",
+    "hash": "SHA256_CODE"
+  },
+  {
+    "file": "GameServer.dll",
+    "hash": "SHA256_CODE"
+  },
+  {
+    "file": "Database/shop_prices.txt",
+    "hash": "SHA256_CODE"
+  }
+]
