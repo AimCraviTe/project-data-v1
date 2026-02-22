@@ -61,7 +61,7 @@
   },
   {
     "file": "LauncherApp.exe",
-    "hash": "019B450AAF487F442D8EFE59984BA49FD426358C38BF2C35372E92321EE9F763"
+    "hash": "927E8EBA0B77F08F7E7EC4F6E253BF8513A3A586AA225ED4DE7FB0E42821885F"
   },
   {
     "file": "LauncherInfo.dat",
@@ -194,5 +194,933 @@
   {
     "file": "Game/Materials/BG_Materials/object/Sign_LK_01.dds",
     "hash": "133D21F0EB25E5E90D32C53341151599A1C6F83E80E8947458A2BFD5C02F01CD"
+  },
+  {
+    "file": "_internal/api-ms-win-core-console-l1-1-0.dll",
+    "hash": "9B774A01B6E3ED560917350E7099A113F6B30D54456D79E07B8EFBD835FD45DA"
+  },
+  {
+    "file": "_internal/api-ms-win-core-datetime-l1-1-0.dll",
+    "hash": "9044D2CF792CEE2D5A6C9AFC4C7600E28D31328A299F7BD5CFD40E648C9A623E"
+  },
+  {
+    "file": "_internal/api-ms-win-core-debug-l1-1-0.dll",
+    "hash": "357EB07989AC1E2CFCF84E6F2A33CDFEB7438105F9B72C587CDB53ECECED523B"
+  },
+  {
+    "file": "_internal/api-ms-win-core-errorhandling-l1-1-0.dll",
+    "hash": "DFDE0E3405E235893478750DA5D08F67D39433083A0A1C13AA8211904F67F829"
+  },
+  {
+    "file": "_internal/api-ms-win-core-fibers-l1-1-0.dll",
+    "hash": "6B7D7645B73568F9F14CA5E76802A50CDB5672A5444290CBCBCE5B5C232B7745"
+  },
+  {
+    "file": "_internal/api-ms-win-core-file-l1-1-0.dll",
+    "hash": "6DE5F95DA84878EB1FDE3FBFF9F601C2379B56061FA461D79F934FD4464E3EFD"
+  },
+  {
+    "file": "_internal/api-ms-win-core-file-l1-2-0.dll",
+    "hash": "C2CDA3237E49A529D85252BD0357EBF827054DCE9292D2BEE96BA16A6209B267"
+  },
+  {
+    "file": "_internal/api-ms-win-core-file-l2-1-0.dll",
+    "hash": "F957A4C261506484B53534A9BE8931C02EC1A349B3F431A858F8215CECFEC3F7"
+  },
+  {
+    "file": "_internal/api-ms-win-core-handle-l1-1-0.dll",
+    "hash": "7024DB36613ECB15A4654BE2FF0A93F8C819D851283EAE0CF6198C540FA538C7"
+  },
+  {
+    "file": "_internal/api-ms-win-core-heap-l1-1-0.dll",
+    "hash": "A35009B803FD8E7249E4956B6173ED41273A4B40F804F1F490C8D4A02EBEA85F"
+  },
+  {
+    "file": "_internal/api-ms-win-core-interlocked-l1-1-0.dll",
+    "hash": "F643579BBB66994622F50B1B20C087D24562373C98D179B19C6E9B3AB77DF893"
+  },
+  {
+    "file": "_internal/api-ms-win-core-libraryloader-l1-1-0.dll",
+    "hash": "43D894E7496FC96C90D4FA70E198D4C00BADBD3F0E5ABD90A453CA5772F52FB0"
+  },
+  {
+    "file": "_internal/api-ms-win-core-localization-l1-2-0.dll",
+    "hash": "D9632062D32D9A98C81D720518E076F8A3785ECFAE253E6A3416C5F91A7C94CF"
+  },
+  {
+    "file": "_internal/api-ms-win-core-memory-l1-1-0.dll",
+    "hash": "0B6779C7BE4A97244190DDA21BA4A39982D039CDE65817FA8993C952FC63530B"
+  },
+  {
+    "file": "_internal/api-ms-win-core-namedpipe-l1-1-0.dll",
+    "hash": "FCF2176DE2F7914C36DA68D480E3223C30E19F57D1A9F6B13BBE9680DEDDFD9F"
+  },
+  {
+    "file": "_internal/api-ms-win-core-processenvironment-l1-1-0.dll",
+    "hash": "FEAD3E3BAB8A1DF22B264CBB92CF705EDB18F2F75FF97A050CB0CF8F57058C93"
+  },
+  {
+    "file": "_internal/api-ms-win-core-processthreads-l1-1-0.dll",
+    "hash": "7E2AB677967D63C98EA424C6ED9ADEF142B027C6392DA09A590C5F9C9FEFC1BC"
+  },
+  {
+    "file": "_internal/api-ms-win-core-processthreads-l1-1-1.dll",
+    "hash": "5664DB5D418063C141E099070D6B7337BED4B8C7C6A69FB1E744F91C7E22E72F"
+  },
+  {
+    "file": "_internal/api-ms-win-core-profile-l1-1-0.dll",
+    "hash": "D578643EA01858CC73DBEEB9097E0D155A8ABEEC2C92A33A5384E00A45A37E97"
+  },
+  {
+    "file": "_internal/api-ms-win-core-rtlsupport-l1-1-0.dll",
+    "hash": "EE8A0DE95C95C2EE8F9D26B776A0C71A4FA6D74A675EB422419AFB2ABEC12C75"
+  },
+  {
+    "file": "_internal/api-ms-win-core-string-l1-1-0.dll",
+    "hash": "9FAEF228F57E69AA32246C71841FEBB779CD913718CEA5C3B79BAF94DECC4EF7"
+  },
+  {
+    "file": "_internal/api-ms-win-core-synch-l1-1-0.dll",
+    "hash": "1ACB49FC48D8DE8903118E9C0B1C7A1EFBEB976FF3907BA57AB1CFCFB2AF1AF0"
+  },
+  {
+    "file": "_internal/api-ms-win-core-synch-l1-2-0.dll",
+    "hash": "D6FF737D5AB67478C2B6C99BFEC810E3DD786C7106C23C9B44F431534095D7F7"
+  },
+  {
+    "file": "_internal/api-ms-win-core-sysinfo-l1-1-0.dll",
+    "hash": "FCC8F3BF2E93990DBCB4CCED5F2704969E07A3C15F1D188A8009912BB7584E55"
+  },
+  {
+    "file": "_internal/api-ms-win-core-timezone-l1-1-0.dll",
+    "hash": "39D0918872F9A32F971C190035CEA49B3B5DEBCF86CFA000F8B4BA2ED5137FA1"
+  },
+  {
+    "file": "_internal/api-ms-win-core-util-l1-1-0.dll",
+    "hash": "A2326711F476D2FB7AF36119FB9F138E33A8FDA58B6CBB59B3A86453955673FF"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-conio-l1-1-0.dll",
+    "hash": "9944F71F8F6E34B8DD88621D445A706CD1949CBCC764337167265337531718AF"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-convert-l1-1-0.dll",
+    "hash": "6ADA8FB00AF899E75AB6F7EE34699E3491FAB3D55E1DBC1079C3F61747790779"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-environment-l1-1-0.dll",
+    "hash": "A70743458C463FF621B6F067D364C9BDC2CB01E6854B2B4E658B5036DCA6D126"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-filesystem-l1-1-0.dll",
+    "hash": "AF6ACB468369DAE55F466450FE44AB2E6525D792375D5EDDE8ABF1D6CF2DDFCB"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-heap-l1-1-0.dll",
+    "hash": "B6FEF6F9156404878E0F974998B9B0E111F74AA543B7873866E6F16FBAFA411C"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-locale-l1-1-0.dll",
+    "hash": "B16AD3B794E5822436B2AA9C4248F6F2F08AAED05425B26D2D05F379AC91158E"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-math-l1-1-0.dll",
+    "hash": "EF3CB5B305B33B033D281AB07BA6DC89A14C355113BEEA5B5A5BB4E5BCE28135"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-process-l1-1-0.dll",
+    "hash": "A36B56E59B7E3930BDAD9CB329D6C4DA35F20D39A88B65E32D052D18F0952271"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-runtime-l1-1-0.dll",
+    "hash": "844BCC0F80142FEAAFDAFFF9353CC4564BA6119FC61F1052A50E15A0BD29D970"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-stdio-l1-1-0.dll",
+    "hash": "0867FE2C639EBDFD8BDD067139DA1927C614285F3E162E91FB11B86B00F363F8"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-string-l1-1-0.dll",
+    "hash": "4FB0FAF414F19133B8E35E164022E4956363B82F610A426F86D341A95068783B"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-time-l1-1-0.dll",
+    "hash": "98324CB7D80F7B39D58090FA3A91B91DD3E4B09B7E97CE4831DF048A163C149B"
+  },
+  {
+    "file": "_internal/api-ms-win-crt-utility-l1-1-0.dll",
+    "hash": "ADCEC88392CBB3F70992E04E1CB35FA5D8A3D9EA02078057C712CAE535D0DBE5"
+  },
+  {
+    "file": "_internal/base_library.zip",
+    "hash": "6BD9B3A171E3240996BA438BBFD6F314D45486828CD345F94E5A9BA89F4770A0"
+  },
+  {
+    "file": "_internal/libcrypto-3.dll",
+    "hash": "CCFFFDDCD3DEFB8D899026298AF9AF43BC186130F8483D77E97C93233D5F27D7"
+  },
+  {
+    "file": "_internal/libffi-8.dll",
+    "hash": "EFF52743773EB550FCC6CE3EFC37C85724502233B6B002A35496D828BD7B280A"
+  },
+  {
+    "file": "_internal/libssl-3.dll",
+    "hash": "007142039F04D04E0ED607BDA53DE095E5BC6A8A10D26ECEDDE94EA7D2D7EEFE"
+  },
+  {
+    "file": "_internal/pyexpat.pyd",
+    "hash": "A824463CE25E7D4D00C2A7F5A162DCFEB857AAC9AE3A0BE6132095C74F21C8F7"
+  },
+  {
+    "file": "_internal/python3.dll",
+    "hash": "DC725058EE9C23A8BA3D4A99435F7E3115B08EEEA58FBC347CDB73327CAD4B72"
+  },
+  {
+    "file": "_internal/python313.dll",
+    "hash": "DD05F134A2F8126A8CFE8D797B87FA966537B894DD49F93336566F9E8D21D4BD"
+  },
+  {
+    "file": "_internal/select.pyd",
+    "hash": "9D3A0041948AD362A3DB15A83FA163AD71BFD6283B7461B7FD9FAFA27DC7106F"
+  },
+  {
+    "file": "_internal/ucrtbase.dll",
+    "hash": "C04DAEBA7E7C4B711D33993AB4C51A2E087F98F4211AEA0DCB3A216656BA0AB7"
+  },
+  {
+    "file": "_internal/unicodedata.pyd",
+    "hash": "9CE0FC32072769CCB8EFCB7C0DA10619E4FAE5C5EEE87B95C79B42024F9AA899"
+  },
+  {
+    "file": "_internal/VCRUNTIME140.dll",
+    "hash": "052AD6A20D375957E82AA6A3C441EA548D89BE0981516CA7EB306E063D5027F4"
+  },
+  {
+    "file": "_internal/VCRUNTIME140_1.dll",
+    "hash": "6A99BC0128E0C7D6CBBF615FCC26909565E17D4CA3451B97F8987F9C6ACBC6C8"
+  },
+  {
+    "file": "_internal/_asyncio.pyd",
+    "hash": "1360E10537AAB8535F8025AD0DED35295372C0E43CE6C77A38090AC5A4EE2028"
+  },
+  {
+    "file": "_internal/_bz2.pyd",
+    "hash": "A19F9A70F8CE7E6F3BEAE4B798CA25CB7C7DC0A198C29D510A384F2B1B40C842"
+  },
+  {
+    "file": "_internal/_cffi_backend.cp313-win_amd64.pyd",
+    "hash": "0E3D149B91FC7DC3367AB94620A5E13AF6E419F423B31D4800C381468CB8AD85"
+  },
+  {
+    "file": "_internal/_ctypes.pyd",
+    "hash": "6659251AD06965E0CFD8CD90C654FBFF4081E93FCEECA84E5D544F436217550C"
+  },
+  {
+    "file": "_internal/_decimal.pyd",
+    "hash": "39B9AD652C4F2DF15A8050FA7D90E12F8B335275635396F19F7671F98D2BC833"
+  },
+  {
+    "file": "_internal/_hashlib.pyd",
+    "hash": "A78D0D7DEA3A455AF1DF7A4890DBBF3DDE6739CF4EFC0386078539E7295D41DD"
+  },
+  {
+    "file": "_internal/_lzma.pyd",
+    "hash": "54F528329302BC3030695D90F22D887A5E275F3A4A7AE6180D05AF3A7FEFCDBC"
+  },
+  {
+    "file": "_internal/_multiprocessing.pyd",
+    "hash": "2256CE1A464F02BCB66D66483E8736C784F822967F62CC417B92B834AC17F243"
+  },
+  {
+    "file": "_internal/_overlapped.pyd",
+    "hash": "2152E8EA9353088BED5EA7D623D9117C1EB013EEB94CDF71A4994E08D4706505"
+  },
+  {
+    "file": "_internal/_queue.pyd",
+    "hash": "3D601A2313C13B1489CFA7838EAE8C0AB31CA99F07C62D21A6152203D3E33864"
+  },
+  {
+    "file": "_internal/_socket.pyd",
+    "hash": "682DFBB04D0183C34A1CF2F174125F8372B9AAED8110E21BE1060E3297B43838"
+  },
+  {
+    "file": "_internal/_ssl.pyd",
+    "hash": "9D963EECE703D3C5E6DF0725BC7C9049B4B05485B330F9F6CBE6B7FD7AB9B202"
+  },
+  {
+    "file": "_internal/_wmi.pyd",
+    "hash": "7A73D404E78AD02D7A5C4818E502A4981A5F8B62B67E374298438D502B0E90E1"
+  },
+  {
+    "file": "_internal/certifi/cacert.pem",
+    "hash": "9102E6A3644A071BA6CDBD4A53698F291C4A64B18450A08BC046548B6DB5CC8B"
+  },
+  {
+    "file": "_internal/certifi/py.typed",
+    "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "file": "_internal/charset_normalizer/md.cp313-win_amd64.pyd",
+    "hash": "4E66DA1BAEF3B663AB8F48FEED4ED1D72E977B4209240595D2C440071BC632C8"
+  },
+  {
+    "file": "_internal/charset_normalizer/md__mypyc.cp313-win_amd64.pyd",
+    "hash": "A26B6459A25F1E9B600AC3DF6B2C4F30D7F9D643292546B85CCB763D49FDEA90"
+  },
+  {
+    "file": "_internal/cryptography/hazmat/bindings/_rust.pyd",
+    "hash": "9C6FDBB4DF076D0EB62888E0FC8842985D4943FC05B98679AFF05DC6522AF19B"
+  },
+  {
+    "file": "_internal/cryptography-45.0.6.dist-info/INSTALLER",
+    "hash": "CEEBAE7B8927A3227E5303CF5E0F1F7B34BB542AD7250AC03FBCDE36EC2F1508"
+  },
+  {
+    "file": "_internal/cryptography-45.0.6.dist-info/METADATA",
+    "hash": "42AC060D51CC79FE50E78641B9451AC146179BC0BFFB3A4B25FC76AFB636A00D"
+  },
+  {
+    "file": "_internal/cryptography-45.0.6.dist-info/RECORD",
+    "hash": "32E18430E27B9B1DE5521A8AAA166E1B913B66A26A73F4669F8DD606C3722D16"
+  },
+  {
+    "file": "_internal/cryptography-45.0.6.dist-info/REQUESTED",
+    "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "file": "_internal/cryptography-45.0.6.dist-info/WHEEL",
+    "hash": "5DDA9EF564CA358ED978EB0200F0327F7BCFF5CD383739FE587219F6C2295F81"
+  },
+  {
+    "file": "_internal/cryptography-45.0.6.dist-info/licenses/LICENSE",
+    "hash": "3E0C7C091A948B82533BA98FD7CBB40432D6F1A9ACBF85F5922D2F99A93AE6BB"
+  },
+  {
+    "file": "_internal/cryptography-45.0.6.dist-info/licenses/LICENSE.APACHE",
+    "hash": "AAC73B3148F6D1D7111DBCA32099F68D26C644C6813AE1E4F05F6579AA2663FE"
+  },
+  {
+    "file": "_internal/cryptography-45.0.6.dist-info/licenses/LICENSE.BSD",
+    "hash": "602C4C7482DE6479DD2E9793CDA275E5E63D773DACD1ECA689232AB7008FB4FB"
+  },
+  {
+    "file": "_internal/pyarmor_runtime_000000/pyarmor_runtime.pyd",
+    "hash": "BAC88CC750DF3D964A904CFF4FB5A16EDCC0FBEA66BF366AE73354C9382E7952"
+  },
+  {
+    "file": "_internal/PySide6/MSVCP140.dll",
+    "hash": "FED81C4A12D695E3A2907C103BC72A3C6E019052D4CCB98D398B497F799C33DA"
+  },
+  {
+    "file": "_internal/PySide6/MSVCP140_1.dll",
+    "hash": "D1A0601E781CAB04C8DFD46A488EE8DCF3245092532852E2036F1195845C4C4E"
+  },
+  {
+    "file": "_internal/PySide6/MSVCP140_2.dll",
+    "hash": "2A0208E4A14E87042469EFA481D1F32220BF2A7B7B501173DB83C3668FFF6669"
+  },
+  {
+    "file": "_internal/PySide6/opengl32sw.dll",
+    "hash": "D99ABED5DD0B73E48E30999441BA1BDF501866112ACB511B9C7B8D1F7C9EE17A"
+  },
+  {
+    "file": "_internal/PySide6/pyside6.abi3.dll",
+    "hash": "668D2E42C5AFBF9C9A2CAEC299694AD51FF4D67E962F18CD745382A8B6E3DFB2"
+  },
+  {
+    "file": "_internal/PySide6/Qt6Core.dll",
+    "hash": "C7F6A8B9F2F4E67E50F37662102BE9E987A7A061F882112A4982A2446D83662F"
+  },
+  {
+    "file": "_internal/PySide6/Qt6Gui.dll",
+    "hash": "7B8F64DDA29A859755D04622F0DAE11282B1598BF027E0B6F4C722E72FC312DF"
+  },
+  {
+    "file": "_internal/PySide6/Qt6Network.dll",
+    "hash": "4090AE938FDEF2C270126E5E6DD93888CACD523BF2312C3EC1F61F471C6AA721"
+  },
+  {
+    "file": "_internal/PySide6/Qt6OpenGL.dll",
+    "hash": "E68F7CB211FD115677BEF511A3C3C2DE2ACEADE9C144CA097B1795919A0A8374"
+  },
+  {
+    "file": "_internal/PySide6/Qt6Pdf.dll",
+    "hash": "D51E25CC45643E0E692CA75F8731CC4308D41EBDD2611603C92697BABCB5037B"
+  },
+  {
+    "file": "_internal/PySide6/Qt6Qml.dll",
+    "hash": "768526062F8A5D97A8397D6CB4FB7C1066FD5BED774F4A8AE0AD82B03B3280F3"
+  },
+  {
+    "file": "_internal/PySide6/Qt6QmlMeta.dll",
+    "hash": "98911DA299835ABDE7DD47063AB2E481589EA91B4D812BEF8DB97E776178B385"
+  },
+  {
+    "file": "_internal/PySide6/Qt6QmlModels.dll",
+    "hash": "B7CA0EF3EB061CC4A1A2B9B824E3645A7E7E29498B6C4B8A79D051C090EFFCEA"
+  },
+  {
+    "file": "_internal/PySide6/Qt6QmlWorkerScript.dll",
+    "hash": "461EF1DC429303C797CAA932B188C5781165BE219070BFFA42E604705C88DA6F"
+  },
+  {
+    "file": "_internal/PySide6/Qt6Quick.dll",
+    "hash": "79DB806732FE4F128728AB122803A601160BA556E02302261D62E6621857B272"
+  },
+  {
+    "file": "_internal/PySide6/Qt6Svg.dll",
+    "hash": "CDF05398DB655E16C4F553BD40BD5490EC188413189D0C32C87B9AE7783FA29B"
+  },
+  {
+    "file": "_internal/PySide6/Qt6VirtualKeyboard.dll",
+    "hash": "E27B0E2F4E365EE1307F3ED3A32D869A3621187D1211A312A05E2E1F14428EFA"
+  },
+  {
+    "file": "_internal/PySide6/Qt6Widgets.dll",
+    "hash": "1ADA9F5B3CA6828F1301CE56CF7FC95EB240B53BFDEA15A9CEF0CFA6B2077389"
+  },
+  {
+    "file": "_internal/PySide6/QtCore.pyd",
+    "hash": "D2BD091416EB60B1FD051CC65A42F3EFD4DB5521B1F1479BBA11D44C4D537125"
+  },
+  {
+    "file": "_internal/PySide6/QtGui.pyd",
+    "hash": "C2767BA411264CADE8698B7FBC089943B5DDBB141EC6A4BBEAB56AF51320C88E"
+  },
+  {
+    "file": "_internal/PySide6/QtNetwork.pyd",
+    "hash": "945D095A3D086F9115CBAD857CD1768AF0BE1EA1BA9F94AA489C0E3563400702"
+  },
+  {
+    "file": "_internal/PySide6/QtWidgets.pyd",
+    "hash": "E09A727F70D027C5DCEF08E4BB1C2016D47550104E3EBF3CC1FB36787B1403E7"
+  },
+  {
+    "file": "_internal/PySide6/VCRUNTIME140.dll",
+    "hash": "A3C9FEF4310F6AC4956C74225BD2BC84C1DDBA3EE68BC5DF9A298FDA15174F5D"
+  },
+  {
+    "file": "_internal/PySide6/VCRUNTIME140_1.dll",
+    "hash": "EF49427BB960446B6D52B8226E8A0DFCB585D0D9A8575874B2CECD965073D2A2"
+  },
+  {
+    "file": "_internal/PySide6/plugins/generic/qtuiotouchplugin.dll",
+    "hash": "EB47FA2BFA3AAE61688D95A6D388CDBD38CF43E3923DFC2B0EF14EBB34DFD6F7"
+  },
+  {
+    "file": "_internal/PySide6/plugins/iconengines/qsvgicon.dll",
+    "hash": "3F66AC0998C04CEC2D47740D60757B4F12B6FF0A06E8AB28221144B948C5CC3C"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qgif.dll",
+    "hash": "298F7EFF077CA6C2E893A9A6D62E462EC22D0DD1883D621ECD5B8A2A9482883C"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qicns.dll",
+    "hash": "A13DAAE18065D7DE6898E2601FF72C940CA318DBEE5FC7B39159E67C7D87085C"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qico.dll",
+    "hash": "14F70EF89E17D16BD6044FBB6F53F3A1AE3E06C9CE2BE87756249A363DE9033A"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qjpeg.dll",
+    "hash": "A4A896F110E37AD80D4EAFFE0872CD8268ECCD44EF26D266C33CD0582A67720A"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qpdf.dll",
+    "hash": "F89A3B47DC4125C65CA4AB958F64D6AD18F7BA59E324FC58ED199513C0EBB909"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qsvg.dll",
+    "hash": "E5749826D97CAFEDF486D99A66F788E5E61800826FAD1C8D35678BBB861F8C20"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qtga.dll",
+    "hash": "48C443396589C345E5F0F8B8847075EA6F2C1EA251C07437F06FE0C8DA27D791"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qtiff.dll",
+    "hash": "3097489434FF0C194A4112831BCB0E572186E56D7CD1FD2A0C142E6C859D9C9E"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qwbmp.dll",
+    "hash": "C0BE12D7D6683BF8451817E3D8101870EFF43C9A0A5D81336B7EEF6740A6C412"
+  },
+  {
+    "file": "_internal/PySide6/plugins/imageformats/qwebp.dll",
+    "hash": "242DAE70000513D6C69575FB9CFCC2986705D81CB6250CDB9D62AB65A488508A"
+  },
+  {
+    "file": "_internal/PySide6/plugins/networkinformation/qnetworklistmanager.dll",
+    "hash": "622647FD3EDF73C811EEEC6DE1BC6FFCAC3774136D42E1F3B3CD65F2112B989E"
+  },
+  {
+    "file": "_internal/PySide6/plugins/platforminputcontexts/qtvirtualkeyboardplugin.dll",
+    "hash": "8D1BF3337D900628AE374A6FF744C3E34C9C3ECD1AEBA637161FD3E4FB910A3D"
+  },
+  {
+    "file": "_internal/PySide6/plugins/platforms/qdirect2d.dll",
+    "hash": "A595F5FFA4C2575D21A0E2EAFBBF9A046E7C47BCFF4D7CB58AD4A847DB6D7808"
+  },
+  {
+    "file": "_internal/PySide6/plugins/platforms/qminimal.dll",
+    "hash": "C0358F84C8C4A445F273ACFC4976CFF8689A12B499E7D62A9268A4A7735A7DD8"
+  },
+  {
+    "file": "_internal/PySide6/plugins/platforms/qoffscreen.dll",
+    "hash": "2C1DC80C79EE5D5F09C2E35EF4044632AB00AB7F236854753215C4D41038711D"
+  },
+  {
+    "file": "_internal/PySide6/plugins/platforms/qwindows.dll",
+    "hash": "404B04DA69045FFF4DFE67572DC09F58673F13E7DBE6F66657FE80CB3D543C05"
+  },
+  {
+    "file": "_internal/PySide6/plugins/styles/qmodernwindowsstyle.dll",
+    "hash": "3DF96754DE4E72A8BFD63F90549564899A0F259508A75E32F88A0DEE002D0079"
+  },
+  {
+    "file": "_internal/PySide6/plugins/tls/qcertonlybackend.dll",
+    "hash": "1CA876B9D465268135478B8D7FF669C80BAF3CDBAB61CF237983B06B10F38A52"
+  },
+  {
+    "file": "_internal/PySide6/plugins/tls/qopensslbackend.dll",
+    "hash": "A89C68B6F98428F91FD08D2535943E70D8E4FF5D31D13B437FA34F498713D3D9"
+  },
+  {
+    "file": "_internal/PySide6/plugins/tls/qschannelbackend.dll",
+    "hash": "15576043EE77DD219DB86661B21E84059C4374EF00EF9105E7D5F2F085AC8488"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_ar.qm",
+    "hash": "E03FE68D83201543698FD7FE267DD5DFC5BFD195147E74FF2F19AC3491401263"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_bg.qm",
+    "hash": "E448AC9E3F16C29EB27AF3012EFE21052DAA78FABFB34CD6DFF2F69EE3BD3CDB"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_ca.qm",
+    "hash": "005B0AA0C9A5B930DFDD870661958A8069BBEC862D75F98BCE20BF7401BEA13D"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_cs.qm",
+    "hash": "03028B42DF5479270371E4C3BDC7DF2F56CBBE6DDA956A2864AC6F6415861FE8"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_da.qm",
+    "hash": "7D1E5CA3310B54D104C19BF2ABD402B38E584E87039A70E153C4A9AF74B25C22"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_de.qm",
+    "hash": "9CB5504DEE6EF0D4D4BE8BA2E34BA8294018A9E0EC810CEAF5E973D57A283434"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_en.qm",
+    "hash": "494AC9A2B2CB2FDECED353F4A9F898ED8DCF616E9BC667438C62681E3F7F79CF"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_es.qm",
+    "hash": "4FFDA56BA3BB5414AB0482D1DDE64A6F226E3488F6B7F3F11A150E01F53FA4C8"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_fa.qm",
+    "hash": "F78E59B5BDD586181A999034BA418868ED17FE9C05707FB65E523F70E92253D2"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_fi.qm",
+    "hash": "E47FE13713E184D07FA4495DDE0C589B0E8F562E91574A3558A9363443A4FA72"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_fr.qm",
+    "hash": "314243A55C32679AD473FDFE48DC7D66E973AD0FC8BF2164480C58DDDB50C1A7"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_gd.qm",
+    "hash": "63B439DD44139AA3AED54C2EBE03FA9BC77F22C14ED8FBA8EFF2608445BB233D"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_he.qm",
+    "hash": "E1EBCA16AFE8994356F81CA007FBDB9DDF865842010FE908923D873B687CAD3F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_hr.qm",
+    "hash": "BB9EEC9A9A652C1340DC75EB2E749BE50DF00F885B3D6900DFC76799C45B244D"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_hu.qm",
+    "hash": "98463295539D769C8645A0B7FB95AD38454CFD0B14F36AF485513F036DDBBBC6"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_it.qm",
+    "hash": "7808ED542A7833C4BD94EC8BDFBBCA00BB4F2FE15979B9121CE3249323687300"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_ja.qm",
+    "hash": "2B9581C69B975F59BE505B127CD3C19D403EF3D12E0E8386FB97238223E9C1DF"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_ka.qm",
+    "hash": "E55E4B72FA620BEBEE5297CA59DFE2F49894A1E544F2B7485B1CFD8829289D6F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_ko.qm",
+    "hash": "0179ED1B136E1CB3F583351EAA2C545BA3D83A6EE3F82C32505926A1A5F5F183"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_lg.qm",
+    "hash": "D25972C3DE43449D24D9C9FE629D1B38320290A137234C218103F148B4EF9897"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_lv.qm",
+    "hash": "846E047573AE40C83671C3BA7F73E27EFC24B98C82701DA0DF9973E574178BB2"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_nl.qm",
+    "hash": "F61513BCDBB6AD800585F9437A95D018AAB17FA12EE414AA31462FF279D8240E"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_nn.qm",
+    "hash": "983734B40AA4D250421BA0D1614416CB8B424D6F140F4A7DBF8B11E65EEF63DC"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_pl.qm",
+    "hash": "3CF6B5C14D5EB0CF81E9AF2066E66B3AA579A6B9B3C323ED670761F6254A8C54"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_pt_BR.qm",
+    "hash": "8344F5BC333C45D37CFD425A09124EB11F12439F33737EC0B8683D04A416746E"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_ru.qm",
+    "hash": "3DA6605668F9178D11A838C4515478084DCFB4F9CF22F99D7A92B492DB9C224B"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_sk.qm",
+    "hash": "D586AE2C314074CF398417FDECB40709D5478DFEB0A67C2FE60D509EE9B59ED7"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_sv.qm",
+    "hash": "53A7E6141AF5BF1A3E97BEBDAB6578ABBBD798C8F17EF7C5AC1623A004D46C1F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_tr.qm",
+    "hash": "353FDFD7165659A49212E7A25BF91C0A71588E52C836F7496640F26782414634"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_uk.qm",
+    "hash": "51B8FF55B37DC5907D637A8DDDA12FBE816852B0244C74EB4F0FB84867A786E0"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_zh_CN.qm",
+    "hash": "0481A9B92A6F0578400E960A7D5EE70217A6A450EAF7F98B7D32B8DBD0D58616"
+  },
+  {
+    "file": "_internal/PySide6/translations/qtbase_zh_TW.qm",
+    "hash": "21012B2B427F8D09D31CE9CAE582CA27955B478CA3DC2EC18A3068D808638C6A"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_ar.qm",
+    "hash": "B11333C520CCD8E375CDE20985DF402D586A1A95E0796313BBEB9F717D4DB22E"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_bg.qm",
+    "hash": "1E22EE126EC9F76031D880285A907B3A0C4510392319FF700DCDEE964ABBB1AD"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_ca.qm",
+    "hash": "17AB2623C7F6E8DEF44B3DBCB517544185817D65F1298DDB10EF71136F232BDC"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_cs.qm",
+    "hash": "C585918FB1D4821A054EA40BDCF279F275CA76C88A5793F433DAC6A611AC7E8F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_da.qm",
+    "hash": "F6773C672ACB73FDEF6E092060D69D1E5DFEE840012BAC912D1E92DE28714386"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_de.qm",
+    "hash": "0401C316AA3B50A172EB44A4FF1EC384924073BEEC7C928EF888EC48E4612688"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_en.qm",
+    "hash": "494AC9A2B2CB2FDECED353F4A9F898ED8DCF616E9BC667438C62681E3F7F79CF"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_es.qm",
+    "hash": "648ED4519BC45D7A4779479A7626EA16CF9AA23E93A0B178546CC47BEA0591AB"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_fa.qm",
+    "hash": "3F4C989C6B2990D80CC6299408214B31698923B52F154483B3371875DE91F88E"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_fi.qm",
+    "hash": "342D01C7EEB234E431D0506821C4CD03C0433115D8D63FEE3357BE2331858879"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_fr.qm",
+    "hash": "C896A38892A92346B033793D56440993236B23E47E06F3974AFDB0552F628387"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_gd.qm",
+    "hash": "49DF855A004A17950338AF3146466F6DF4D5852410BD0B58EA80E0D0203A9D24"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_gl.qm",
+    "hash": "204A01AC7DEB6B5BAE193AFECBD1E50D18C73BF7D94BADEB2BBFDF6123C4ED93"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_he.qm",
+    "hash": "36F01FFF2F25E116D4B7AF78097B7E49520FD5B7FB6FB120E40BE228C05C045F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_ar.qm",
+    "hash": "222088C9752D1CC3BAB985EF2DC77E5AE78578DCE18A61EC15B39F02E588163D"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_bg.qm",
+    "hash": "CBCDD1E0BBAE332D80DDB0A286056F17C824FA28D353D7FDF12FC97D9F6FE054"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_ca.qm",
+    "hash": "8C98B5EE246E18397D0DE7BD76B2891773A975553EC5DCDCE42F8A696E5B34DE"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_cs.qm",
+    "hash": "4AC56FC63E400943BAB13F1D4C418502138908E1D488C24AEE6131D3D17552AA"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_da.qm",
+    "hash": "6BB092552A398687119F6D52145F04BF8373977446D8F00C0DCBD56B96829F0F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_de.qm",
+    "hash": "037BC99ABF98571AE9375C2513536C15B571D66406C36C1DE447B547FF539C07"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_en.qm",
+    "hash": "494AC9A2B2CB2FDECED353F4A9F898ED8DCF616E9BC667438C62681E3F7F79CF"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_es.qm",
+    "hash": "FD16B279F8CF69077F75E94D90C9C07A2AFFF3948A579E3789F5FFB5E5F4202D"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_fr.qm",
+    "hash": "875EE2DCDC64E3DEA888D84048E382D3921A175F12847DE2E6B1CB12AD9ADD50"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_gl.qm",
+    "hash": "7399A248609974773F60866C87B78EA7DFBC4F750313D692F7886CD763883C9F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_hr.qm",
+    "hash": "8C8CC3C5B1AB2B074F82937001B896603420EF75592B3B78172177360DD7EA61"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_hu.qm",
+    "hash": "7BE32E015119C969453ABB6E8F3FB377963A69FAFB10C27B796737B5EB283EAF"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_it.qm",
+    "hash": "316FE8D0815E2B4B396895BEB38EF1A40431915B5E054DF80F4C0CD556F26E4B"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_ja.qm",
+    "hash": "AE603B2C0D434D40CDE433FFCBA65F9EE27978A9E19316007BE7FE782A5B8B47"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_ka.qm",
+    "hash": "159C74F94B384B5EE6AFDF38B6CFC4806BC99ECF73BE02D4A7021D4CEBA7EC7E"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_ko.qm",
+    "hash": "F11C64694E8E34E1D2C46C1A1D15D6BA9F2DB7B61DE4FDF54ECA5AB977C3E052"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_nl.qm",
+    "hash": "44A8A0DAF775D14352180052D13F623814D7BDF98E2C5C80144B7BF74214E3B0"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_nn.qm",
+    "hash": "4C8A7213942078E4F72F5BABD26C41B77ACE70189714A58B5504A7D5AD0193DC"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_pl.qm",
+    "hash": "CC6CB4D8C54086224672F2E49E623C8CB7C0C1CD65B8D5ECD42FC9BA3A6065BD"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_pt_BR.qm",
+    "hash": "17A164045C0FC53D0507CFC90C3970FE1AFDFA1C4A8E5C881D34FA1F86A821BF"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_ru.qm",
+    "hash": "557B644E6DA5F1EC720EF93965617087E4D1F40B2494CC5AA524CF3796108DE7"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_sk.qm",
+    "hash": "F41E33E1D790BD0D3EB180F1F875BC191FE74773628F25C2CAD95E1402E66867"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_sl.qm",
+    "hash": "2EC955E662407EBCD8DCDAE5AAA21E4108E0B5B0AEE0E9DB712C27072943535F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_sv.qm",
+    "hash": "15185617BA6069A826E1C44D50D07DA3477DAF9D92931C75F55B53155F4D26C2"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_tr.qm",
+    "hash": "81DA2F88CD624097581F2D29B10311796BCD9AB289E65883346D276110542D28"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_uk.qm",
+    "hash": "497CFC473684692EE44D7A3795E8FB2270C57069FD9EB98A615DD29AB9BE8A7C"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_zh_CN.qm",
+    "hash": "E256D1F6034A5A5521C62F129F91731216E474F71E1D9CAEA3D3DCB11B670DEB"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_help_zh_TW.qm",
+    "hash": "40112812ABB43853D678CC6D97729F21F21B3A7321C827FC9D18F6C936447D1E"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_hr.qm",
+    "hash": "FC9E4146F33BE3D09B234BE01E56235D3037D8D82D64F0700B4D4A6E253A61A7"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_hu.qm",
+    "hash": "C2FA649F167CDB801D1CC0CB69C1D93594FD5BF8C0B7E79B969935DA5C3E19AA"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_it.qm",
+    "hash": "9E7A18BC20EBEEC54BAAAF41C918A74534511271F796DFFFFD0F9B9EC31C68D3"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_ja.qm",
+    "hash": "0F5FE50452947D1EE9755249D860354BFF6977279B4C496A5BC77E5B89DD745E"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_ka.qm",
+    "hash": "00B67C6DFC255079B5B98A5640F82519C96B2520A028682FBA4078B39D743EAA"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_ko.qm",
+    "hash": "1D254B535E1CB35CBCAD8210B15B89F4488159826BF35B4504696263DD102FA3"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_lg.qm",
+    "hash": "6BA668501F4C040C66DA1BDC022362DA3C8CF663DA6AA484CBDB599028DA98ED"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_lt.qm",
+    "hash": "47EB5F97467DF769261421D54A5BEA1131C9FB9B6388791D38BB6574335B64BF"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_lv.qm",
+    "hash": "ADDECA285282338294F24CA50D37D08A5F68D3785D0A94AF86DD4EC8F2A3B449"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_nl.qm",
+    "hash": "39E870CBD25C0F97FA9B1828D5EA1ED9849857A2E26C5321B3F13C76BE8F0548"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_nn.qm",
+    "hash": "4E544E23F75EAFE1553DC896973DB23B5795CD243786D5C653CC0F36A46CA74F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_pl.qm",
+    "hash": "E6890AFA0CAF0F6DB0248E4C94F6016B8EC8BC266F1E0E9B8F01E8EA912CF968"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_pt_BR.qm",
+    "hash": "0E24C58E35271853F8CDFB3F0F7B0741B5A9A588E43CDEC62AE85A3842771E0A"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_pt_PT.qm",
+    "hash": "2C1E7BBF5168A64B43752DD4C547601C0BDE6D610F8671FA3E3AF38597E84783"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_ru.qm",
+    "hash": "1B388E2D6D1BD405603E794E498C6D7EC5F5A5AD819243546F6399181DA36758"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_sk.qm",
+    "hash": "840C3B01C89DF976FC1D2E5BFC6FC84B65666B8A3CEB4CBF5AA0C22AF3D2A383"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_sl.qm",
+    "hash": "C44E0313A9414CC0E490B65B0C036FA11BCA959353B228886547BC2C8492034F"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_sv.qm",
+    "hash": "030F0CCEEE2FC81B81A78C9720601B77419BEB959C586E7621581727B77AB7B0"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_tr.qm",
+    "hash": "59E8A0C411BE3B0802A68561B090F182099D6B75C4FE46F398E55F11528E11B9"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_uk.qm",
+    "hash": "053EC1F677C4DBA48C6A97EB28F4FC78C1511324D1843D7F4CEC2C7C00A66145"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_zh_CN.qm",
+    "hash": "C0E29D32C9540A7E78643B74214E633C56F6AB11F018E516629F2C11B1FB09FC"
+  },
+  {
+    "file": "_internal/PySide6/translations/qt_zh_TW.qm",
+    "hash": "24E226954491689549A1A1990DB3B8CB78888008D8163B2FD2442B772B6D1B5F"
+  },
+  {
+    "file": "_internal/requests-2.32.4.dist-info/INSTALLER",
+    "hash": "CEEBAE7B8927A3227E5303CF5E0F1F7B34BB542AD7250AC03FBCDE36EC2F1508"
+  },
+  {
+    "file": "_internal/requests-2.32.4.dist-info/METADATA",
+    "hash": "DD2E362EF34DA0BD843F62230B55425E81259C6AD34D55B03E0226541E05605E"
+  },
+  {
+    "file": "_internal/requests-2.32.4.dist-info/RECORD",
+    "hash": "A42FA2386EBE3B4E7CE9E4AC25F9BD0A73117404188F133722A905B0E3554B42"
+  },
+  {
+    "file": "_internal/requests-2.32.4.dist-info/REQUESTED",
+    "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "file": "_internal/requests-2.32.4.dist-info/top_level.txt",
+    "hash": "7CC4959877DBE6B6C63A8EB1BFE3BFB545FA8FE5B28B1B2C13E4A7C1C0D1C4D4"
+  },
+  {
+    "file": "_internal/requests-2.32.4.dist-info/WHEEL",
+    "hash": "FF309DDCDD65EBD02BC724DBF2BCC4A0FF53A5B61792A44548D383E4EBB19D3B"
+  },
+  {
+    "file": "_internal/requests-2.32.4.dist-info/licenses/LICENSE",
+    "hash": "09E8A9BCEC8067104652C168685AB0931E7868F9C8284B66F5AE6EDAE5F1130B"
+  },
+  {
+    "file": "_internal/shiboken6/MSVCP140.dll",
+    "hash": "4ABC2A13083744510B1F0A169FE5620AD71F5AD3292546D331486F1A42B86FDE"
+  },
+  {
+    "file": "_internal/shiboken6/Shiboken.pyd",
+    "hash": "1BBB27747949B24BC0F6176BE73188EF77A83E9DB0AC2F933DA1B0B7B5E6CB33"
+  },
+  {
+    "file": "_internal/shiboken6/shiboken6.abi3.dll",
+    "hash": "0FE96E805A6001EFDE58818A1CE6CB425227F74BE72F3B10D7C06C7435FEFA5A"
+  },
+  {
+    "file": "_internal/shiboken6/VCRUNTIME140.dll",
+    "hash": "7976D6B2B8E78DF97A7FD55BFF7ACC0B04EEEC2BC723CEC59AD7E31169CADFD0"
+  },
+  {
+    "file": "_internal/shiboken6/VCRUNTIME140_1.dll",
+    "hash": "E68C48DC03F45B4A434FC00D324288923F53D85E986FB63934CF387B11C82E8D"
   }
 ]
