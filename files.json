@@ -1,22 +1,34 @@
 [
   {
-    "file": "Game.ResDt",
-    "hash": "SHA256_CODE"
+    "file": "TheRaw.exe",
+    "hash": "AAE79298EF9C76CD326B8A6BFC2CB4607118A179BAC3AEB1437DB025B6EBC776"
   },
   {
-    "file": "Game.Res00",
-    "hash": "SHA256_CODE"
+    "file": "TheRawExt.dll",
+    "hash": "7840506F42FBB50C6FEF8076EFC888CBF2E0AE775BCDE1FC007D19BCC69167F9"
   },
   {
-    "file": "GameClient.dll",
-    "hash": "SHA256_CODE"
+    "file": "Game/ClientFx.dll",
+    "hash": "6EEC4D62B9B9C8775F187DC7E37E04A208583F63992BC03C10E01826831B3F70"
   },
   {
-    "file": "GameServer.dll",
-    "hash": "SHA256_CODE"
+    "file": "Game/Game.blk",
+    "hash": "CBD18F5FDED557ED6E2B180C0FF9171DE4FE1E3E696F3A63B33F592AFBAEE7E4"
   },
   {
-    "file": "Database/shop_prices.txt",
-    "hash": "SHA256_CODE"
+    "file": "Game/Game.Res00",
+    "hash": "8EA5559EBA3C3106CD274AF86E19E20D0684FFA99B3195104DE4F39894B59F46"
+  },
+  {
+    "file": "Game/Game.ResDt",
+    "hash": "AF03D991F2BFBA466B21F50F04502FB7F1134C15C56BE7B860F9AE9A21887753"
+  },
+  {
+    "file": "Game/GameClient.dll",
+    "hash": "D35821D7010C0B5E1C6EF3720D102D9C6A511521760DFB4EE18D56E1223574DD"
+  },
+  {
+    "file": "Game/GameServer.dll",
+    "hash": "8F8EA55545A40DE83291875D7F073AFA7882BC7653480BBAAB9688A863A5C747"
   }
 ]
